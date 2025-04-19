@@ -6,9 +6,9 @@
   
 </div>
 
-If you’re playing Arise Crossover on Roblox and want to level up faster or make things easier, you’re in luck. These scripts help with auto farming, teleporting, player features like speed and jump boost, and even attacking mobs automatically. Let’s take a look at the best scripts made for this game. Each one brings something unique, and using them can really change how you play.
-
 <div align="center"><a href="https://ijunsy.github.io/id/g976q1h56"><img src="https://github.com/user-attachments/assets/d756f0b5-a881-474b-a906-be6debb361cd" height="80"></a></div>
+
+If you’re playing Arise Crossover on Roblox and want to level up faster or make things easier, you’re in luck. These scripts help with auto farming, teleporting, player features like speed and jump boost, and even attacking mobs automatically. Let’s take a look at the best scripts made for this game. Each one brings something unique, and using them can really change how you play.
 
 > 🔲 Supported CPU: AMD & Intel
 >
